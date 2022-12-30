@@ -1,1 +1,5 @@
 esta es una practica de gitbash
+
+Onely Garay es un estudiante de la UdeM y tine 20 años
+
+le quedan 2 años de carrera de ingieneria de Sistemas
